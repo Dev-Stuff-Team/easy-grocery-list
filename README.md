@@ -2,7 +2,7 @@
 
 ### Phases
 
-#####Phase 1: Planning
+####Phase 1: Planning
 
 - [ ] Schedule for Project Deadlines
 - [ ] Reaseach project use cases for the project
@@ -15,7 +15,7 @@
 - [ ] Create all other phases for project
 
 ###Learning Goals
-#####Front End
+####Front End
 
 - [ ] Master React Hooks
   - [ ] useReducer
@@ -34,7 +34,7 @@
 - [ ] SASS
   - [ ] Sass Basics
 
-#####Back End
+####Back End
 
 - [ ] JSON Web Token
 - [ ] MongoDB
