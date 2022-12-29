@@ -12,7 +12,7 @@
   - [ ] Serve webpack bundles through node
 - [ ] Style a Basic Figma Design project
 - [ ] Create GitHub issues
-- [ ] Create all other Phases for project
+- [ ] Create all other phases for project
 
 ###Learning Goals
 #####Front End
