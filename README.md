@@ -2,7 +2,7 @@
 
 ### Phases
 
-Phase 1: Planning
+#### Phase 1: Planning
 
 - [ ] Schedule for Project Deadlines
 - [ ] Reaseach project use cases for the project
